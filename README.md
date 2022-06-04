@@ -33,7 +33,7 @@
     <table>
         <tr>
         <td>
-            <img src="adedeji.jpg.jpg" alt="">
+            <img src="https://www.facebook.com/adedeji.adeleye.98" alt="adedeji adeleye">
         </td>
         <td>
             Founder and CEO of <a href="London app brewery.co">The App Brewery.</a>
